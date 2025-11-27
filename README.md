@@ -55,8 +55,8 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 
 ---
 
-## 💱 **Currency Tracker Dashboard (https://github.com/AYELET0527661122/Coins)**  
-**Angular & .NET | 05–06/2025**
+## 💱 **Currency Tracker Dashboard **  
+**Angular & .NET | 05–06/2025 (https://github.com/AYELET0527661122/Coins)**
 
 **Highlights:**  
 - Integrated with an external live currency exchange API to fetch both **real-time** and **historical** rates.  
@@ -66,8 +66,8 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 
 ---
 
-## 🛒 **E-Shop Management System (https://github.com/AYELET0527661122/Ice-cream)**  
-**React & Node.js | 04–05/2025**
+## 🛒 **E-Shop Management System**  
+**React & Node.js | 04–05/2025  (https://github.com/AYELET0527661122/Ice-cream)**
 
 **Highlights:**  
 - Built a full-stack online shop with a complete **admin dashboard** (add, delete, edit, view).  
