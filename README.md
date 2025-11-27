@@ -29,7 +29,7 @@ Git, GitHub, Postman, Docker, Linux, VSCode, Visual Studio
 ---
 
 ## 📷 **SpeedyCam Driver for Raspberry Pi**  
-**C / C++ | Mobileye – KamaTech Bootcamp | 07–11/2025**  
+**C / C++ | Mobileye – KamaTech Bootcamp | 07–11/2025 (https://github.com/AYELET0527661122/SpeedyCam)**  
 Driver & image-processing kernel module for Raspberry Pi.
 
 **Highlights:**  
@@ -55,7 +55,7 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 
 ---
 
-## 💱 **Currency Tracker Dashboard**  
+## 💱 **Currency Tracker Dashboard (https://github.com/AYELET0527661122/Coins)**  
 **Angular & .NET | 05–06/2025**
 
 **Highlights:**  
@@ -66,7 +66,7 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 
 ---
 
-## 🛒 **E-Shop Management System**  
+## 🛒 **E-Shop Management System (https://github.com/AYELET0527661122/Ice-cream)**  
 **React & Node.js | 04–05/2025**
 
 **Highlights:**  
