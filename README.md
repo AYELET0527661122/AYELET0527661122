@@ -79,17 +79,17 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 ---
 
 ## 🎮 **Gaming Website – Multi-Game Interactive Platform**
-
 **A web-based gaming mini-platform built with HTML, CSS, and JavaScript, featuring several classic and creative games packed into one experience(https://github.com/AYELET0527661122/Gaming-website)**
 
 **Included games & features:**
--🟡 Bull & Hit (Mastermind-style logic game)
--🧠 Memory Match game with increasing difficulty
--🎨 Paint / Draw App with canvas tools
--❌⭕ Ex-Gol (Tic-Tac-Toe variation)
--⭐ User Experience layer – score tracking, animations, UI feedback
--💾 Local Storage integration – save progress, points, and game state
--🏆 Points system – earn and accumulate points across games
+- Bull & Hit (Mastermind-style logic game).
+- Memory Match game with increasing difficulty.
+- Paint / Draw App with canvas tools.
+- Ex-Gol (Tic-Tac-Toe variation).
+- User Experience layer – score tracking, animations, UI feedback.
+- Local Storage integration – save progress, points, and game state.
+- Points system – earn and accumulate points across games.
+  
 This project focuses on clean JavaScript logic, responsive UI, and fun interactive gameplay experience.
 
 ---
