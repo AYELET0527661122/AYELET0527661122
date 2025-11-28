@@ -55,7 +55,7 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 
 ---
 
-## 💱 **Currency Tracker Dashboard**  
+## 💱 Currency Tracker Dashboard
 **Angular & .NET | 05–06/2025 (https://github.com/AYELET0527661122/Coins)**
 
 **Highlights:**  
