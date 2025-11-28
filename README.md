@@ -80,7 +80,8 @@ A multi-threaded chess engine built with performance, modularity, and scalabilit
 
 ## 🎮 **Gaming Website – Multi-Game Interactive Platform**
 
-**A web-based gaming mini-platform built with HTML, CSS, and JavaScript, featuring several classic and creative games packed into one experience (https://github.com/AYELET0527661122/Gaming-website)**
+**A web-based gaming mini-platform built with HTML, CSS, and JavaScript, featuring several classic and creative games packed into one experience**
+**(https://github.com/AYELET0527661122/Gaming-website)**
 Included games & features:
 🟡 Bull & Hit (Mastermind-style logic game)
 🧠 Memory Match game with increasing difficulty
